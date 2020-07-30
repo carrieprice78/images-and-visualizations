@@ -1,2 +1,5 @@
 # images
-A respository of image resources and tools.
+A respository of image resources and tools. Includes links to:
+* media commons
+* stock photo databases
+* citing tools
